@@ -1,21 +1,21 @@
-# laravue
+# Vue
 
-## Project setup
+## Saat selesai clone, ketikkan perintah dibawah ini :
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Untuk mengkompile dan menjalan projek ketikkan perintah dibawah ini :
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Jika ingin membuild menjadi sebuah file prod ketikkan perintah dibawah ini :
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Untuk menjalankan lint dan menfixes code yang kurang rapi ketikkan perintah dibawah ini :
 ```
 yarn lint
 ```
